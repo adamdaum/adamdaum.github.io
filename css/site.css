@@ -4,9 +4,8 @@
 
 /* Links */
 
-a,
-a:focus
-,a:visited:not(.btn-primary) {
+a:not(.btn-primary),
+a:focus:not(.btn-primary) {
 
   color: rgb(5, 158, 196);
   text-decoration: none;
@@ -14,7 +13,6 @@ a:focus
 }
 
 a:hover {
-
   color: rgb(5, 196, 148);
   text-decoration: none;
 
