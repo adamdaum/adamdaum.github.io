@@ -5,7 +5,8 @@
 /* Links */
 
 a,
-a:focus {
+a:focus
+,a:visited {
 
   color: rgb(5, 158, 196);
   text-decoration: none;
@@ -19,12 +20,6 @@ a:hover {
 
 }
 
-a:visited {
-
-  color: rgb(5, 196, 148);
-  text-decoration:none;
-
-}
 
 /* Custom default button */
 
