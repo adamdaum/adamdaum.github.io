@@ -17,7 +17,11 @@ a:hover {
 
 }
 
-a:visited {}
+a:visited {
+
+  color: rgb(5, 196, 148);
+
+}
 
 /* Custom default button */
 
