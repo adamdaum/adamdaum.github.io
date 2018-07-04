@@ -8,18 +8,21 @@ a,
 a:focus {
 
   color: rgb(5, 158, 196);
+  text-decoration: none;
 
 }
 
 a:hover {
 
   color: rgb(5, 196, 148);
+  text-decoration: none;
 
 }
 
 a:visited {
 
   color: rgb(5, 196, 148);
+  text-decoration:none;
 
 }
 
