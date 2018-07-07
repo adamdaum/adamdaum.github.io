@@ -31,6 +31,12 @@ a:hover {
   border: .05rem solid #fff;
 }
 
+.btn {
+
+  border-radius: 0;
+
+}
+
 /*
  * Base structure
  */
