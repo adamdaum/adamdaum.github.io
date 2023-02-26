@@ -1,2 +1,2 @@
 # adamdaum.github.io
-It's my website... or it will be!
+My github pages website
